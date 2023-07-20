@@ -38,8 +38,8 @@ The repository is organized as follows:
 ```
 /
 ├── linear_regression/
-│   ├── linear_regression_solution.py
-│   ├── data.csv
+│   ├── linear_regression.ipynb
+│   ├── 
 │   └── ...
 ├── logistic_regression/
 │   ├── logistic_regression_solution.py
