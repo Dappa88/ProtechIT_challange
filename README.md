@@ -38,23 +38,24 @@ The repository is organized as follows:
 ```
 /
 ├── linear_regression/
-│   ├── linear_regression.ipynb
 │   ├── Dappa,Linear_regression.ipynb
 │   └── ...
 ├── logistic_regression/
-│   ├── logistic_regression_solution.py
-│   ├── data.csv
+│   ├── Dappa,Linear_regression.ipynb
 │   └── ...
 ├── k_means_clustering/
-│   ├── k_means_clustering_solution.py
+│   ├── Dappa,kmeans clustering
 │   ├── data.csv
 │   └── ...
 ├── visualization/
-│   ├── visualization_solution.py
-│   ├── data.csv
+│   ├── Dappa,matplotlib exercise.ipynb
 │   └── ...
+├── Ecormmerce purchase exercise/
+│   ├── 
+│   ├── Dappa,Ecommerce(pandas)
+│   └── ..
 ├── python_problems/
-│   ├── problem1_solution.ipynb
+│   ├── python crash course.ipynb
 │
 ├── numpy project/
 │   ├── dappa_numpy.ipynb
