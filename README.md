@@ -55,7 +55,11 @@ The repository is organized as follows:
 │   └── ...
 ├── python_problems/
 │   ├── problem1_solution.ipynb
+│
+├── numpy project/
+│   ├── dappa_numpy.ipynb
 │   
+│   └── ...  
 │   └── ...
 └── README.md
 ```
