@@ -76,7 +76,7 @@ To explore my solutions to the challenges, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your_username/protechit-machine-learning-challenges.git
+git clone https://github.com/Dappa88/protechit-machine-learning-challenges.git
 ```
 
 2. Navigate to the folder of the specific challenge you want to explore.
