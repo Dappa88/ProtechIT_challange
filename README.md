@@ -1,6 +1,6 @@
 # ProTechIT Machine Learning Challenges
 
-![ProTechIT Logo](https://www.example.com/protechit-logo.png)
+![ProTechIT Logo](https://th.bing.com/th/id/OIP.Rt_CDzHAd-nT2iXPGxsF7gAAAA?w=239&h=190&c=7&r=0&o=5&pid=1.7)
 
 Welcome to the ProTechIT Machine Learning Challenges repository! This project showcases my solutions to various machine learning challenges given by ProTechIT. The challenges encompassed a range of topics, including linear regression, logistic regression, k-means clustering, basic visualization, and Python problem-solving.
 
